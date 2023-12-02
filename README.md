@@ -1,5 +1,3 @@
-Certainly! Here's the README file with your GitHub username, repository name, and the correct link:
-
 ```markdown
 # Document Summarization with Flask
 
@@ -63,7 +61,7 @@ pip install flask transformers PyPDF2
 
 If you'd like to contribute, fork the repository, create a new branch, make your changes, and submit a pull request.
 
+## License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-Feel free to copy and paste this into your project's README file on GitHub!
