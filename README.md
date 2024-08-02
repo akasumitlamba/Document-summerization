@@ -1,4 +1,3 @@
-```markdown
 # Document Summarization with Flask
 
 This web application allows users to upload PDF files, extract text content, and generate a summary using the Facebook BART model. It is built using Flask, a Python web framework.
@@ -6,11 +5,8 @@ This web application allows users to upload PDF files, extract text content, and
 ## How it Works
 
 1. **Upload PDF**: Users can upload PDF files through the web interface.
-
 2. **Text Extraction**: The application extracts the text content from the uploaded PDF using the PyPDF2 library.
-
 3. **Summarization**: The extracted text is then passed to the Facebook BART model for summarization. The model generates a concise summary of the input text.
-
 4. **Display Results**: Users can view both the original text content and the generated summary on the result page.
 
 ## Getting Started
@@ -40,9 +36,7 @@ This web application allows users to upload PDF files, extract text content, and
 ### Usage
 
 1. Upload a PDF file using the provided form.
-
 2. Click on the "Summarize" button to generate a summary.
-
 3. View the original text content and the generated summary on the result page.
 
 ## Dependencies
@@ -56,12 +50,4 @@ Install dependencies using:
 ```bash
 pip install flask transformers PyPDF2
 ```
-
-## Contributing
-
-If you'd like to contribute, fork the repository, create a new branch, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
+This README file provides clear instructions and formatting for users to understand the project and get started quickly.
