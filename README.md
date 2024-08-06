@@ -2,6 +2,8 @@
 
 This web application allows users to upload PDF files, extract text content, and generate a summary using the Facebook BART model. It is built using Flask, a Python web framework.
 
+
+
 ## How it Works
 
 1. **Upload PDF**: Users can upload PDF files through the web interface.
