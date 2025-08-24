@@ -1,8 +1,6 @@
 # Document Summarization with Flask
 
-This web application allows users to upload PDF files, extract text content, and generate a summary using the Facebook BART model. It is built using Flask, a Python web framework.
-
-
+This web application allows users to upload PDF files, extract text content, and generate a summary using the Facebook BART model. It is built using Flask, a Python web framework
 
 ## How it Works
 
