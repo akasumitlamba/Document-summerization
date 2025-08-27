@@ -11,7 +11,6 @@ This web application allows users to upload PDF files, extract text content, and
 
 ## Getting Started
 
-
 ### Installation
 
 1. Clone the repository:
