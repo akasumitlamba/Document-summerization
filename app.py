@@ -3,7 +3,6 @@ from transformers import BartForConditionalGeneration, BartTokenizer
 import io
 import PyPDF2
 
-
 app = Flask(__name__)
 
 model_name = "facebook/bart-large-cnn"
